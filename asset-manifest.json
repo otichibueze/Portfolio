@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/otichibueze/portfolio/static/css/main.fe927caf.css",
+    "main.js": "/otichibueze/portfolio/static/js/main.a444dc57.js",
+    "static/js/787.4b24f717.chunk.js": "/otichibueze/portfolio/static/js/787.4b24f717.chunk.js",
+    "static/media/chibuezeoti.png": "/otichibueze/portfolio/static/media/chibuezeoti.f431144b0669234c4f72.png",
+    "index.html": "/otichibueze/portfolio/index.html",
+    "main.fe927caf.css.map": "/otichibueze/portfolio/static/css/main.fe927caf.css.map",
+    "main.a444dc57.js.map": "/otichibueze/portfolio/static/js/main.a444dc57.js.map",
+    "787.4b24f717.chunk.js.map": "/otichibueze/portfolio/static/js/787.4b24f717.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe927caf.css",
+    "static/js/main.a444dc57.js"
+  ]
+}
